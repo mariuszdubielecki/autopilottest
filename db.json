@@ -1,4 +1,5 @@
 {
+  "products": {
   "products": [
     {
       "name": "Canine Zd Skin Food Sensitivities",
@@ -19,4 +20,5 @@
       "url": "https://www.petcircle.com.au/product/royal-canin-veterinary-diet-canine-anallergenic/17990"
     }
   ]
+}
 }
